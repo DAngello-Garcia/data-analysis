@@ -6,4 +6,3 @@ To understand the dataset better, I'll conduct exploratory data analysis to answ
 
 - Which industry pays the most?
 - How does salary increase given years of experience?
-- How do salaries compare for the same role in different locations?
